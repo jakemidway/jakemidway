@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @jakemidway
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Привет, меня зовут Евгений
+- 👀 Смотрю подкасты, читаю статьи
+- 🌱 Изучаю все что связано с вэб-разработкой. Изучаю Инглиш и Польский 
+- 💞️ Ищу команду в которой нужен толантливый вэб-криейтор
+- 📫 Пишите мне на почту jakemidway@gmail.com
+
+
+
+
 
 <!---
 jakemidway/jakemidway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
